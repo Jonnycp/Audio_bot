@@ -44,5 +44,5 @@ Crea un server discord, fai entrare il tuo bot, mettilo in esecuzione sulla tua 
 3. Ogni cosa detta nella chat vocale verrà analizzato e se corrisponde a "Audio", la persona che l'ha detto diventerà sordo. Dicendo "stop mute" sentirai nuovamente.
 4. Scrivi `*leave` per farlo uscire.
 
-## Contact
+## Contatti
 Per domande, feedback o errori, contattatemi (jonathan-caputo@hotmail.com)!
