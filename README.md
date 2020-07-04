@@ -4,7 +4,7 @@ Un bot che capisce cosa viene detto nella chat di discord in cui è inserito. Se
 ## Disclamer:
 - Questo si basa su questa reposity: https://github.com/healzer/DiscordEarsBot
 - Il codice aggiunto è in beta e creato principalmente per il mio server discord.
-- Il codice non è ottimizatto e potrebbe contenere alcuni errori poichè non sono molto pratico con javascript.
+- *Il codice non è ottimizatto e potrebbe contenere alcuni errori poichè non sono molto pratico con javascript.*
 
 ## Installazione
 Hai bisogno di NodeJs con versione > 12
