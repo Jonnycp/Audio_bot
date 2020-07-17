@@ -1,5 +1,5 @@
 # Audio_Bot
-Un bot che capisce cosa viene detto nella chat di discord in cui è inserito. Se quello che hai detto contiene "Audio" diventerai sordo da un momento all'altro. L'antidoto è "Stop mute".
+Un bot che capisce cosa viene detto nella chat di discord in cui è inserito. Se quello che hai detto contiene "Audio" diventerai sordo da un momento all'altro. L'antidoto è "Stop muto".
 
 ## Disclamer:
 - Questo si basa su questa reposity: https://github.com/healzer/DiscordEarsBot
